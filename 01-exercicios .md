@@ -8,7 +8,7 @@ EX. “O número x é par”, “O número y é impar” onde x e y representam 
 Ao rodar o programa devem ser exibidos o nome e o valor do produto, e caso o produto seja “importado” o valor exibido deve ser multiplicado por 2,17. 
 
 ## 
-3 - Dados três valores A, B e C, guardados em variáveis, construa um algoritmo no DartPad que imprima os valores de forma crescente (do menor para o maior).
+3 - Dados três valores A, B e C, guardados em variáveis, construa um algoritmo que imprima os valores de forma crescente (do menor para o maior).
 
 ## 
 4 - Depois da liberação do governo para as mensalidades dos planos de saúde, as pessoas começaram a fazer pesquisas para descobrir um bom plano, não muito caro. Um vendedor de um plano de saúde apresentou a tabela a seguir. 
